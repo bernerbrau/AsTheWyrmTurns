@@ -4,7 +4,13 @@
 
 ### Book Aspects
 
+-  *The Mystic Pull of Ka*
+-  *The Wyrm's Deception Runs Deep*
+
 ### Chapter Aspects
+
+-  *The World is Tilting*
+-  *Storm's a-Comin'*
 
 ### Scene Aspects
 
@@ -29,6 +35,12 @@
 # The Story 
 
 ## Book 1: As the Wyrm Turns
+
+### Book Aspects
+
+-  *The Mystic Pull of Ka*
+-  *The Wyrm's Deception Runs Deep*
+
 ### Prelude
 #### Scene Aspects
 
@@ -42,6 +54,12 @@
 -  **Teeth like a viper**
 
 ### Chapter I: In which Doris Gets Her Oats
+
+#### Chapter Aspects
+
+-  *The World is Tilting*
+-  *Storm's a-Comin'*
+
 #### Scene 1
 ##### Scene Aspects
 ##### NPCs
