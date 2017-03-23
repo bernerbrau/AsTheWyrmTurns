@@ -19,10 +19,11 @@
 
 ### NPC Aspects (known)
 
+-  *On the Run (Hooded stranger and friends)*
+
 ### Situation Aspects
 
 -  *Lost in the music (Strangers)*
--  *Ready to Throw (Ash)* ⬅️️  **2 free invokes**
 
 ### Details
 
@@ -52,6 +53,10 @@
 -  **Hooded stranger**
 -  **Looks like a shaved yak**
 -  **Teeth like a viper**
+
+##### NPC Aspects
+
+-  *On the Run*
 
 ### Chapter I: In which Doris Gets Her Oats
 
