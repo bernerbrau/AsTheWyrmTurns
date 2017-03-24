@@ -24,6 +24,8 @@
 ### Situation Aspects
 
 -  *Lost in the music (Strangers)*
+-  *Fear in their eyes (Strangers)*
+-  *Axe in his face (Hooded stranger)*
 
 ### Details
 
