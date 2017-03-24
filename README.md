@@ -26,6 +26,7 @@
 -  *Lost in the music (Strangers)*
 -  *Fear in their eyes (Strangers)*
 -  *Axe in his face (Hooded stranger)*
+-  *Not in my line of sight (Wyrm/Digsby)* ⬅️ 1 Free Invoke to Digsby
 
 ### Details
 
@@ -34,6 +35,10 @@
 -  **Hooded stranger**
 -  **Looks like a shaved yak**
 -  **Teeth like a viper**
+
+#### Other details
+
+- **Wyrm (artifact)**
 
 # The Story 
 
